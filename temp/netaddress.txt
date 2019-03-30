@@ -1,0 +1,6 @@
+NetAddress1=http://www.baidu.com
+NetName1=baidu1
+NetAddress2=http://www.baidu.com
+NetName2=baidu2
+NetAddress3=http://www.baidu.com
+NetName3=baidu3
