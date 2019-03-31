@@ -1,6 +1,6 @@
-NetName1=xiaomi小米
+NetName1=xiaomi
 NetAddress1=http://www.xiaomi.com
-NetName2=baidu百度
+NetName2=baidu
 NetAddress2=http://www.baidu.com
 NetName2=github
 NetAddress3=http://www.github.com
