@@ -1,8 +1,8 @@
-﻿Name=xiaomi小米=Address=http://www.xiaomi.com=手机1\IOT\物联网设备A	
-Name=baidu百度=Address=http://www.baidu.com=手机2\IOT\物联网设备B
-Name=github=Address=http://www.github.com=手机3\IOT\物联网设备C
-Name=stm32=Address=https://www.stmcu.org.cn/=手机4\IOT\物联网设备D
-Name=linux公社=Address=https://www.linuxidc.com/=手机5\IOT\物联网设备E
-Name=码云=Address=https://gitee.com/=手机6\IOT\物联网设备F
-Name=菜鸟笔记=Address=http://www.runoob.com/=手机7\IOT\物联网设备G
-Name=RT_Thread=Address=https://www.rt-thread.org/=手机8\IOT\物联网设备H
+﻿Name=xiaomi小米=Address=http://www.xiaomi.com=手机1\IOT\物联网设备A手机1\IOT\物联网设备A手机1\IOT\物联网设备A	
+Name=baidu百度=Address=http://www.baidu.com=手机2\IOT\物联网设备B手机1\IOT\物联网设备A手机1\IOT\物联网设备A
+Name=github=Address=http://www.github.com=手机3\IOT\物联网设备C手机1\IOT\物联网设备A手机1\IOT\物联网设备A
+Name=stm32=Address=https://www.stmcu.org.cn/=手机4\IOT\物联网设备D手机1\IOT\物联网设备A手机1\IOT\物联网设备A
+Name=linux公社=Address=https://www.linuxidc.com/=手机5\IOT\物联网设备E手机1\IOT\物联网设备A手机1\IOT\物联网设备A
+Name=码云=Address=https://gitee.com/=手机6\IOT\物联网设备F手机1\IOT\物联网设备A手机1\IOT\物联网设备A
+Name=菜鸟笔记=Address=http://www.runoob.com/=手机7\IOT\物联网设备G手机1\IOT\物联网设备A手机1\IOT\物联网设备A
+Name=RT_Thread=Address=https://www.rt-thread.org/=手机8\IOT\物联网设备H手机1\IOT\物联网设备A手机1\IOT\物联网设备A
